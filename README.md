@@ -1,50 +1,27 @@
-# 📊 Data Science Internship Projects
+# Data Science Internship Task 2
+<br>
+<img src="https://github.com/kindo-tk/PRODIGY_DS_02/blob/main/ds2.png"   >
 
-This repository contains various data science tasks completed during my internship, covering data analysis, visualization, machine learning, and exploratory data analysis (EDA).
+## Introduction
+This repository contains the code and analysis for Task 2 of my Data Science internship at Prodigy Info Tech. For this task, I performed data cleaning and exploratory data analysis (EDA) on a dataset of my choice. I chose the Titanic dataset from Kaggle for this analysis.
 
-## ✅ Task 01: Data Visualization  
-Created a **bar chart** to visualize the distribution of a continuous variable — global population distribution across the top 20 most populous countries in 2022.  
-**Tools used:** Python, Matplotlib, Pandas.
+## Dataset
+The <a href = "https://github.com/kindo-tk/PRODIGY_DS_02/blob/main/Titanic-Dataset.csv">`Titanic dataset`</a> is a well-known dataset in the field of data science and contains information about passengers aboard the Titanic, including their demographics and survival status. This dataset is widely used for educational purposes and provides an opportunity to explore various data analysis techniques.
 
----
+## Task Description
+The main objective of this task was to perform data cleaning and exploratory data analysis to gain insights into the Titanic dataset. This involved handling missing values and exploring relationships between variables to identify patterns and trends in the data.
 
-## ✅ Task 02: Data Cleaning & EDA  
-Performed **data cleaning and exploratory data analysis (EDA)** on a real-world dataset (e.g., Titanic dataset).  
-Key activities:
-- Handled missing values and incorrect data types  
-- Explored variable relationships  
-- Identified key patterns and trends through visualizations  
-**Tools used:** Python, Pandas, Seaborn, Matplotlib.
 
----
+## Analysis Highlights
+- Conducted data cleaning to handle missing values and duplicates.
+- Explored relationships between variables such as gender, passenger class, age, fare, and survival rate.
+- Identified patterns and trends in the data, including the higher survival rate among females, the impact of passenger class on survival, and the relationship between age and survival.
 
-## ✅ Task 03: Decision Tree Classifier  
-Built a **Decision Tree Classifier** to predict whether a customer will purchase a product based on demographic and behavioral data, using datasets like the **Bank Marketing dataset** from UCI ML Repository.  
-Key steps:
-- Data preprocessing  
-- Model training & evaluation (accuracy, confusion matrix)  
-**Tools used:** Python, Scikit-learn, Pandas.
+## Conclusion
+The data cleaning and exploratory data analysis performed on the Titanic dataset provided valuable insights into the factors influencing survival rates during the Titanic disaster. This analysis contributes to a better understanding of historical events and showcases the application of data science techniques in deriving meaningful insights from data.
 
----
+## Contact Information
+For any inquiries or feedback regarding this project, please contact:
 
-## ✅ Task 04: Sentiment Analysis Visualization  
-Analyzed and visualized **sentiment patterns** in social media data to understand public opinions about specific topics or brands.  
-Key processes:
-- Text preprocessing (cleaning, tokenization)  
-- Sentiment scoring  
-- Visualization of trends and insights  
-**Tools used:** Python, TextBlob, Matplotlib, Seaborn.
-
----
-
-## ✅ Task 05: Traffic Accident Data Analysis  
-Analyzed **traffic accident data** to identify patterns related to road conditions, weather, and time of day.  
-Key contributions:
-- Data aggregation  
-- Visualization of accident hotspots and contributing factors  
-**Tools used:** Python, Pandas, Matplotlib, Seaborn, Folium (for mapping).
-
----
-
-🎯 These tasks helped build practical skills in data analysis, machine learning, data visualization, and sentiment analysis.  
-🔗 Explore the notebooks and code to see detailed implementation.
+- <a href="https://www.linkedin.com/in/tufan-kundu-577945221/">Tufan Kundu (LinkedIn)</a>
+- Email: tufan.kundu11@gmail.com
