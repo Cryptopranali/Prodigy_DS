@@ -1,50 +1,21 @@
-# 📊 Data Science Internship Projects
+# Data Science Internship Task 4
 
-This repository contains various data science tasks completed during my internship, covering data analysis, visualization, machine learning, and exploratory data analysis (EDA).
+## Overview
 
-## ✅ Task 01: Data Visualization  
-Created a **bar chart** to visualize the distribution of a continuous variable — global population distribution across the top 20 most populous countries in 2022.  
-**Tools used:** Python, Matplotlib, Pandas.
+This repository contains the code and documentation for my data science internship project at `Prodigy Infotech`, focusing on Twitter sentiment analysis. The project aims to analyze sentiment patterns in Twitter data to gain insights into public opinion and attitudes towards various topics, brands, and events.
 
----
+## Dataset
 
-## ✅ Task 02: Data Cleaning & EDA  
-Performed **data cleaning and exploratory data analysis (EDA)** on a real-world dataset (e.g., Titanic dataset).  
-Key activities:
-- Handled missing values and incorrect data types  
-- Explored variable relationships  
-- Identified key patterns and trends through visualizations  
-**Tools used:** Python, Pandas, Seaborn, Matplotlib.
+The dataset used for this project consists of Twitter data collected from Kaggle.
 
----
 
-## ✅ Task 03: Decision Tree Classifier  
-Built a **Decision Tree Classifier** to predict whether a customer will purchase a product based on demographic and behavioral data, using datasets like the **Bank Marketing dataset** from UCI ML Repository.  
-Key steps:
-- Data preprocessing  
-- Model training & evaluation (accuracy, confusion matrix)  
-**Tools used:** Python, Scikit-learn, Pandas.
+## Conclusion
 
----
+The sentiment analysis provides valuable insights into prevailing attitudes and opinions within the Twitter community regarding various topics. While negative sentiments appear to be more common overall, there is a diverse range of sentiments expressed across different topics. Understanding these sentiment trends can inform decision-making processes, marketing strategies, and community engagement efforts in both online and offline contexts.
+Thank you for reviewing my internship task submission!
 
-## ✅ Task 04: Sentiment Analysis Visualization  
-Analyzed and visualized **sentiment patterns** in social media data to understand public opinions about specific topics or brands.  
-Key processes:
-- Text preprocessing (cleaning, tokenization)  
-- Sentiment scoring  
-- Visualization of trends and insights  
-**Tools used:** Python, TextBlob, Matplotlib, Seaborn.
 
----
+## Contact Information
+For any inquiries or feedback regarding this project, please contact:
 
-## ✅ Task 05: Traffic Accident Data Analysis  
-Analyzed **traffic accident data** to identify patterns related to road conditions, weather, and time of day.  
-Key contributions:
-- Data aggregation  
-- Visualization of accident hotspots and contributing factors  
-**Tools used:** Python, Pandas, Matplotlib, Seaborn, Folium (for mapping).
-
----
-
-🎯 These tasks helped build practical skills in data analysis, machine learning, data visualization, and sentiment analysis.  
-🔗 Explore the notebooks and code to see detailed implementation.
+- Email: pranaliwadtile@gmail.com
