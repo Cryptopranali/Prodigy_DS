@@ -1,50 +1,30 @@
-# 📊 Data Science Internship Projects
+# Data Science Internship Task 3
+<br>   >
 
-This repository contains various data science tasks completed during my internship, covering data analysis, visualization, machine learning, and exploratory data analysis (EDA).
+Welcome to the repository for my internship task submission for Prodigy Infotech! In this project, I developed machine learning models to predict whether clients will subscribe to a term deposit based on demographic and behavioral data from direct marketing campaigns conducted by a Portuguese banking institution.
 
-## ✅ Task 01: Data Visualization  
-Created a **bar chart** to visualize the distribution of a continuous variable — global population distribution across the top 20 most populous countries in 2022.  
-**Tools used:** Python, Matplotlib, Pandas.
+## Overview
 
----
+The main goal of this project is to create predictive models that can assist banking institutions in targeting clients who are more likely to subscribe to term deposits. By accurately identifying potential subscribers, the institution can optimize its marketing efforts and improve campaign effectiveness.
 
-## ✅ Task 02: Data Cleaning & EDA  
-Performed **data cleaning and exploratory data analysis (EDA)** on a real-world dataset (e.g., Titanic dataset).  
-Key activities:
-- Handled missing values and incorrect data types  
-- Explored variable relationships  
-- Identified key patterns and trends through visualizations  
-**Tools used:** Python, Pandas, Seaborn, Matplotlib.
+## Dataset
 
----
+The used in this project is related to direct marketing campaigns (phone calls) of the Portuguese banking institution. It contains various features such as client demographics, previous marketing interactions, and the outcome of the marketing campaign (whether the client subscribed to a term deposit or not).
 
-## ✅ Task 03: Decision Tree Classifier  
-Built a **Decision Tree Classifier** to predict whether a customer will purchase a product based on demographic and behavioral data, using datasets like the **Bank Marketing dataset** from UCI ML Repository.  
-Key steps:
-- Data preprocessing  
-- Model training & evaluation (accuracy, confusion matrix)  
-**Tools used:** Python, Scikit-learn, Pandas.
 
----
+## Results
 
-## ✅ Task 04: Sentiment Analysis Visualization  
-Analyzed and visualized **sentiment patterns** in social media data to understand public opinions about specific topics or brands.  
-Key processes:
-- Text preprocessing (cleaning, tokenization)  
-- Sentiment scoring  
-- Visualization of trends and insights  
-**Tools used:** Python, TextBlob, Matplotlib, Seaborn.
+The project resulted in the development of decision tree classifiers using both the Gini impurity and entropy criteria. The models achieved high accuracy in predicting term deposit subscriptions, with the Gini impurity criterion slightly outperforming the entropy criterion in terms of testing accuracy and recall for the positive class.
 
----
+## Conclusion
 
-## ✅ Task 05: Traffic Accident Data Analysis  
-Analyzed **traffic accident data** to identify patterns related to road conditions, weather, and time of day.  
-Key contributions:
-- Data aggregation  
-- Visualization of accident hotspots and contributing factors  
-**Tools used:** Python, Pandas, Matplotlib, Seaborn, Folium (for mapping).
+This project demonstrates the potential of machine learning models in predicting term deposit subscriptions in direct marketing campaigns. By leveraging predictive analytics, the banking institution can optimize its marketing strategies and enhance customer engagement.
 
----
+Thank you for reviewing my internship task submission!
 
-🎯 These tasks helped build practical skills in data analysis, machine learning, data visualization, and sentiment analysis.  
-🔗 Explore the notebooks and code to see detailed implementation.
+
+## Contact Information
+For any inquiries or feedback regarding this project, please contact:
+
+- Email: pranaliwadtile@gmail.com
+
